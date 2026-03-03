@@ -35,7 +35,7 @@ javac Expense.java ExpenseManager.java ExpenseSplitterGUI.java
 java ExpenseSplitterGUI
 ```
 
-📸 Screenshot
+📸 Screenshot of the app
 
 (You can add screenshots here if desired)
 
